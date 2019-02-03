@@ -1,5 +1,5 @@
 # db-service
-This project is a Stock Price Viewer with Microservices Architecture using Spring Cloud, Spring Boot, Eureka, Zuul.
+This project is a Stock Price Viewer build with Microservices Architecture using Spring Cloud, Spring Boot, Eureka, Zuul.
 
 It has following components:
 1. User
